@@ -6,11 +6,12 @@ export default function ReliabilityPage() {
   
   return (
    <div>
+    <div></div>
     <div >
       <Hero
         imgData={reliabilityImg}
         altText="car factory"
-        title="Super High reliability hosting"
+        title="Super High reliability-bjhhosting"
       />
       {/* Uncomment the line below to use Hero component with image */}
       {/* <Hero imgData={homeImg} altText="car factory" title="Car Factory" description="Building the future of cars." /> */}
